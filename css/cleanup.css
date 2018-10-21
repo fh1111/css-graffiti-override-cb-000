@@ -9,7 +9,7 @@ div#wall #tag-2 {
 }
 
 
-div#wall ~ #tag-3 {
+input[class="slick wicked"] {
 
   display: none;
 }
